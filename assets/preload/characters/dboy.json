@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idled",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-183
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				-194
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-212
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-79
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-80
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "heyd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-198
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "dleftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-210
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "drightmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-256
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ddownmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				-178
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "dupmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dboy",
+	"position": [
+		-30,
+		30
+	],
+	"healthicon": "df",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		63,
+		156
+	],
+	"camera_position": [
+		-80,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -2,66 +2,11 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				9
-			],
-			"loop": false,
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Dad Sing Note LEFT",
-			"indices": []
-		},
-		{
-			"offsets": [
-				6,
-				-49
-			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Dad Sing Note DOWN",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-6,
-				59
-			],
-			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Dad Sing Note UP",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				32
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "Dad idle dance",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
+				-1,
 				0
 			],
 			"loop": true,
-			"fps": 24,
+			"fps": 35,
 			"anim": "idle-loop",
 			"indices": [
 				10,
@@ -77,7 +22,7 @@
 				10
 			],
 			"loop": true,
-			"fps": 24,
+			"fps": 35,
 			"anim": "singLEFT-loop",
 			"indices": [
 				12,
@@ -93,7 +38,7 @@
 				27
 			],
 			"loop": true,
-			"fps": 24,
+			"fps": 35,
 			"anim": "singRIGHT-loop",
 			"indices": [
 				15,
@@ -109,7 +54,7 @@
 				50
 			],
 			"loop": true,
-			"fps": 24,
+			"fps": 35,
 			"anim": "singUP-loop",
 			"indices": [
 				56,
@@ -118,13 +63,68 @@
 				59
 			],
 			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				11,
+				-11
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				66,
+				-319
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-36,
+				-17
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-41,
+				13
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/police",
 	"position": [
-		140,
-		170
+		460,
+		460
 	],
 	"healthicon": "dad",
 	"flip_x": false,
@@ -134,9 +134,9 @@
 		52
 	],
 	"camera_position": [
-		-140,
-		-190
+		-270,
+		80
 	],
 	"sing_duration": 6.1,
-	"scale": 2
+	"scale": 1
 }

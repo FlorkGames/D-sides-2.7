@@ -1,100 +1,89 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				-4,
+				0,
 				0
 			],
-			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Pico Idle Dance",
+			"name": "idle",
 			"indices": []
 		},
 		{
-			"offsets": [
-				42,
-				-25
-			],
 			"loop": false,
+			"offsets": [
+				235,
+				-3
+			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Pico Note Right0",
+			"name": "left",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-32,
-				-10
-			],
 			"loop": false,
+			"offsets": [
+				-23,
+				44
+			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Pico NOTE LEFT0",
+			"name": "right",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-43,
-				43
-			],
 			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "pico Up note0",
-			"indices": []
-		},
-		{
 			"offsets": [
-				16,
-				-98
+				88,
+				-172
 			],
-			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Pico Down Note0",
+			"name": "down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				17,
-				-5
+				50,
+				81
 			],
-			"anim": "shoot",
+			"anim": "hide",
 			"fps": 24,
-			"name": "Pico Shoot",
+			"name": "hide",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-60,
-				6
+				134,
+				131
 			],
-			"anim": "reload",
+			"anim": "singUP",
 			"fps": 24,
-			"name": "Pico Gun Charge",
+			"name": "up",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/ved",
 	"position": [
-		235,
-		390
+		130,
+		190
 	],
-	"healthicon": "pico",
-	"flip_x": true,
+	"healthicon": "guyy",
+	"flip_x": false,
 	"healthbar_colors": [
-		234,
-		151,
-		195
+		245,
+		63,
+		108
 	],
 	"camera_position": [
-		-70,
-		-120
+		-60,
+		-20
 	],
 	"sing_duration": 4,
-	"scale": 2
+	"scale": 1.6
 }

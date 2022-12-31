@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-28
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matpat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				277,
+				-213
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "matpat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "matpat right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-346
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "matpat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				131
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "matpat up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "matpat idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mack",
+	"position": [
+		150,
+		180
+	],
+	"healthicon": "mack",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		186,
+		132
+	],
+	"camera_position": [
+		-280,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 3.2
+}

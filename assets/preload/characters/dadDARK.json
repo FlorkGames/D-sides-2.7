@@ -121,7 +121,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/DADDY_DEARESTDARK",
 	"position": [
 		140,
 		170
@@ -135,7 +135,7 @@
 	],
 	"camera_position": [
 		-140,
-		-190
+		-170
 	],
 	"sing_duration": 6.1,
 	"scale": 2

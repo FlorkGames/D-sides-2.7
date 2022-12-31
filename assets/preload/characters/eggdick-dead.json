@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-202
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "cracked0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "cracked0",
+			"indices": [
+				12,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "cracked0",
+			"indices": [
+				12,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cracked",
+	"position": [
+		-20,
+		160
+	],
+	"healthicon": "milkeggman",
+	"flip_x": true,
+	"healthbar_colors": [
+		77,
+		161,
+		195
+	],
+	"camera_position": [
+		-50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

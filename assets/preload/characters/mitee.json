@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				85,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-128,
+				-268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-110,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-220
+			],
+			"anim": "kick",
+			"fps": 24,
+			"name": "mightykick",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mitee",
+	"position": [
+		1390,
+		180
+	],
+	"healthicon": "mitee",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		88,
+		189
+	],
+	"camera_position": [
+		-230,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

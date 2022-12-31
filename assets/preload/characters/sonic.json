@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MightyZIPIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MightyZIPLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MightyZIPDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MightyZIPUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MightyZIPRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-8
+			],
+			"anim": "Laugh",
+			"fps": 24,
+			"name": "MightyZIPLaugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "IAMGOD",
+			"fps": 24,
+			"name": "MightyZIPIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				9
+			],
+			"anim": "prepping",
+			"fps": 24,
+			"name": "MightyZIPPrepping",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				48
+			],
+			"anim": "ARGH",
+			"fps": 24,
+			"name": "MightyZIPARGH",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/secret/MightyZIPSHEET",
+	"position": [
+		370,
+		359
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		45,
+		123
+	],
+	"camera_position": [
+		-420,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

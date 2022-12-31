@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LordXIlde",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				406
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				344,
+				529
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				439,
+				339
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				600
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GodZFACESCARY",
+	"position": [
+		410,
+		630
+	],
+	"healthicon": "godz",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		74,
+		102
+	],
+	"camera_position": [
+		-900,
+		-630
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

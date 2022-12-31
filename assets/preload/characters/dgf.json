@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idleg",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dgirl",
+	"position": [
+		-290,
+		0
+	],
+	"healthicon": "dgf",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		90,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

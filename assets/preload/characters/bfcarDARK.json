@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-85,
-				90
+				-4,
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				12,
-				82
+				-32,
+				6
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				-15
+				-52,
+				-34
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				78,
-				130
+				-69,
+				40
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-75,
-				60
+				-22,
+				-3
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				19,
-				95
+				-22,
+				8
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				5,
-				5
+				-57,
+				-41
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -80,8 +80,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				87,
-				142
+				-72,
+				42
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -91,8 +91,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-78,
-				75
+				-18,
+				5
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -102,8 +102,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-76,
-				50
+				-65,
+				26
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -113,8 +113,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				-90,
-				88
+				-1,
+				2
 			],
 			"anim": "scared",
 			"fps": 24,
@@ -124,8 +124,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				155,
-				184
+				37,
+				11
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -135,8 +135,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				-15,
-				207
+				37,
+				5
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -146,8 +146,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				48,
-				286
+				37,
+				69
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
@@ -155,67 +155,56 @@
 			"indices": []
 		},
 		{
-			"offsets": [
-				230,
-				90
-			],
 			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
 			"fps": 24,
-			"anim": "Dodge down",
-			"indices": [],
-			"name": "BF NOTE DOWN DODGE"
+			"name": "boyfriend dodge",
+			"indices": []
 		},
 		{
-			"offsets": [
-				386,
-				112
-			],
 			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
 			"fps": 24,
-			"anim": "Dodge left",
-			"indices": [],
-			"name": "BF NOTE LEFT DODGE"
+			"name": "boyfriend attack",
+			"indices": []
 		},
 		{
-			"offsets": [
-				233,
-				158
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "Dodge up",
-			"indices": [],
-			"name": "BF NOTE UP DODGE"
-		},
-		{
 			"offsets": [
-				143,
-				150
+				-40,
+				-40
 			],
-			"loop": false,
+			"anim": "pre-attack",
 			"fps": 24,
-			"anim": "Dodge right",
-			"indices": [],
-			"name": "BF NOTE RIGHT DODGE"
+			"name": "bf pre attack",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIENDPicoSkin",
+	"image": "characters/bfCarDARK",
 	"position": [
-		0,
-		350
+		110,
+		460
 	],
-	"healthicon": "pico",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		234,
-		151,
-		195
+		228,
+		85,
+		216
 	],
 	"camera_position": [
-		120,
-		-100
+		110,
+		-110
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }

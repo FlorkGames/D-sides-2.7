@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				42,
-				-25
+				48,
+				-26
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -76,12 +76,56 @@
 			"fps": 24,
 			"name": "Pico Gun Charge",
 			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Pico Shoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Pico Shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-5
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Pico Shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-5
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Pico Shoot",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/Pico_FNF_assetssDARK",
 	"position": [
-		235,
+		225,
 		390
 	],
 	"healthicon": "pico",

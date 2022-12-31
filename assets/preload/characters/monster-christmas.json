@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				50
+				-23,
+				-14
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,30 +24,8 @@
 		},
 		{
 			"offsets": [
-				-30,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Monster left note"
-		},
-		{
-			"offsets": [
-				-51,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Monster Right note"
-		},
-		{
-			"offsets": [
-				-40,
-				-94
+				19,
+				-387
 			],
 			"loop": false,
 			"fps": 24,
@@ -60,14 +38,14 @@
 				-20,
 				50
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
 			"indices": [
 				21,
 				22,
 				23
 			],
-			"fps": 24,
-			"anim": "singUP-loop",
-			"loop": true,
 			"name": "monster up note"
 		},
 		{
@@ -75,14 +53,14 @@
 				-40,
 				-94
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
 			"indices": [
 				27,
 				28,
 				29
 			],
-			"fps": 24,
-			"anim": "singDOWN-loop",
-			"loop": true,
 			"name": "monster down"
 		},
 		{
@@ -90,14 +68,14 @@
 				-51,
 				0
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
 			"indices": [
 				12,
 				13,
 				14
 			],
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"loop": true,
 			"name": "Monster Right note"
 		},
 		{
@@ -105,14 +83,14 @@
 				-30,
 				0
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
 			"indices": [
 				17,
 				18,
 				19
 			],
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"loop": true,
 			"name": "Monster left note"
 		},
 		{
@@ -120,34 +98,111 @@
 				1,
 				0
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
 			"indices": [
 				12,
 				13,
 				14
 			],
-			"fps": 24,
-			"anim": "idle-loop",
-			"loop": true,
 			"name": "monster idle"
+		},
+		{
+			"offsets": [
+				-9,
+				-167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Monster Right note"
+		},
+		{
+			"offsets": [
+				-19,
+				-131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Monster left note"
+		},
+		{
+			"offsets": [
+				-3,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "monsteruplemon"
+		},
+		{
+			"offsets": [
+				11,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "monsterdownlemon"
+		},
+		{
+			"offsets": [
+				13,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "monsterlrightlemon"
+		},
+		{
+			"offsets": [
+				-5,
+				-107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "monsterrleftlemon"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				640,
+				0
+			],
+			"anim": "enter",
+			"fps": 24,
+			"name": "monster enter",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/monsterChristmas",
 	"position": [
-		0,
-		130
+		-80,
+		90
 	],
-	"healthicon": "monster",
+	"healthicon": "monstereaster",
 	"flip_x": false,
 	"healthbar_colors": [
-		243,
-		255,
-		110
+		210,
+		41,
+		72
 	],
 	"camera_position": [
-		0,
-		0
+		-90,
+		-170
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "reveal",
+			"fps": 24,
+			"name": "big reveal lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "malfunction",
+			"fps": 24,
+			"name": "malfunction pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enter",
+			"indices": [],
+			"name": "big reveal lol"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-249,
+				1
+			],
+			"anim": "silhouette",
+			"fps": 24,
+			"name": "silhouette static",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/placeholderDARK",
+	"position": [
+		85,
+		330
+	],
+	"healthicon": "test",
+	"flip_x": true,
+	"healthbar_colors": [
+		205,
+		202,
+		147
+	],
+	"camera_position": [
+		-80,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

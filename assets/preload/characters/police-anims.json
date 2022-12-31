@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-190,
+				-190
+			],
+			"anim": "approach",
+			"fps": 35,
+			"name": "approach",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-250
+			],
+			"anim": "land",
+			"fps": 35,
+			"name": "land",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-190,
+				-190
+			],
+			"loop": true,
+			"fps": 35,
+			"anim": "idle",
+			"indices": [],
+			"name": "approach"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				30
+			],
+			"anim": "guard",
+			"fps": 35,
+			"name": "guard",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-201,
+				91
+			],
+			"loop": true,
+			"fps": 35,
+			"anim": "jump",
+			"indices": [],
+			"name": "jump"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/police2",
+	"position": [
+		340,
+		540
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		1,
+		52
+	],
+	"camera_position": [
+		0,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
