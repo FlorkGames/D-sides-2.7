@@ -6,4 +6,4 @@ e
 f
 g
 h
-Sonic.
+Sonic.exe
