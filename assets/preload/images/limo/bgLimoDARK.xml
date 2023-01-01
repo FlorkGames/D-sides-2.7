@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgLimoDARK.png">
+	
+	
+	<SubTexture name="BG limo PINK0000" x="0" y="0" width="1094" height="343" pivotX="-14.9" pivotY="8.35" />
+	<SubTexture name="BG limo PINK0001" x="0" y="0" width="1094" height="343" />
+	<SubTexture name="BG limo PINK0002" x="0" y="343" width="1094" height="343" />
+	<SubTexture name="BG limo PINK0003" x="0" y="686" width="1094" height="343" />
+</TextureAtlas>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fireworks.png">
+	
+	
+	<SubTexture name="FireworkBlue0000" x="0" y="0" width="24" height="60" pivotX="666.05" pivotY="599.2" frameX="-59" frameY="-70" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0001" x="0" y="0" width="24" height="60" frameX="-59" frameY="-70" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0002" x="24" y="0" width="23" height="68" frameX="-60" frameY="-59" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0003" x="24" y="0" width="23" height="68" frameX="-60" frameY="-59" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0004" x="47" y="0" width="13" height="33" frameX="-60" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0005" x="47" y="0" width="13" height="33" frameX="-60" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0006" x="61" y="0" width="12" height="22" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0007" x="61" y="0" width="12" height="22" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0008" x="74" y="0" width="12" height="13" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0009" x="74" y="0" width="12" height="13" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0010" x="86" y="0" width="116" height="106" frameX="-12" frameY="-18" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0011" x="203" y="0" width="130" height="118" frameX="-6" frameY="-11" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0012" x="203" y="0" width="130" height="118" frameX="-6" frameY="-11" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0013" x="333" y="0" width="137" height="128" frameX="-3" frameY="-5" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0014" x="333" y="0" width="137" height="128" frameX="-3" frameY="-5" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0015" x="0" y="128" width="141" height="134" frameX="-1" frameY="-2" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0016" x="0" y="128" width="141" height="134" frameX="-1" frameY="-2" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0017" x="141" y="128" width="143" height="136" />
+	<SubTexture name="FireworkBlue0018" x="285" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0019" x="285" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkBlue0020" x="285" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0000" x="512" y="0" width="24" height="60" pivotX="666.05" pivotY="599.2" frameX="-59" frameY="-70" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0001" x="512" y="0" width="24" height="60" frameX="-59" frameY="-70" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0002" x="536" y="0" width="23" height="68" frameX="-60" frameY="-59" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0003" x="536" y="0" width="23" height="68" frameX="-60" frameY="-59" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0004" x="559" y="0" width="13" height="33" frameX="-60" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0005" x="559" y="0" width="13" height="33" frameX="-60" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0006" x="573" y="0" width="12" height="22" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0007" x="573" y="0" width="12" height="22" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0008" x="586" y="0" width="12" height="13" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0009" x="586" y="0" width="12" height="13" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0010" x="598" y="0" width="116" height="106" frameX="-12" frameY="-18" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0011" x="715" y="0" width="130" height="118" frameX="-6" frameY="-11" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0012" x="715" y="0" width="130" height="118" frameX="-6" frameY="-11" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0013" x="845" y="0" width="137" height="128" frameX="-3" frameY="-5" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0014" x="845" y="0" width="137" height="128" frameX="-3" frameY="-5" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0015" x="512" y="128" width="141" height="134" frameX="-1" frameY="-2" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0016" x="512" y="128" width="141" height="134" frameX="-1" frameY="-2" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0017" x="653" y="128" width="143" height="136" />
+	<SubTexture name="FireworkGreen0018" x="797" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0019" x="797" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkGreen0020" x="797" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0000" x="1024" y="0" width="24" height="60" pivotX="666.05" pivotY="599.2" frameX="-59" frameY="-70" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0001" x="1024" y="0" width="24" height="60" frameX="-59" frameY="-70" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0002" x="1048" y="0" width="23" height="68" frameX="-60" frameY="-59" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0003" x="1048" y="0" width="23" height="68" frameX="-60" frameY="-59" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0004" x="1071" y="0" width="13" height="33" frameX="-60" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0005" x="1071" y="0" width="13" height="33" frameX="-60" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0006" x="1085" y="0" width="12" height="22" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0007" x="1085" y="0" width="12" height="22" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0008" x="1098" y="0" width="12" height="13" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0009" x="1098" y="0" width="12" height="13" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0010" x="1110" y="0" width="116" height="106" frameX="-12" frameY="-18" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0011" x="1227" y="0" width="130" height="118" frameX="-6" frameY="-11" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0012" x="1227" y="0" width="130" height="118" frameX="-6" frameY="-11" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0013" x="1357" y="0" width="137" height="128" frameX="-3" frameY="-5" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0014" x="1357" y="0" width="137" height="128" frameX="-3" frameY="-5" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0015" x="1024" y="128" width="141" height="134" frameX="-1" frameY="-2" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0016" x="1024" y="128" width="141" height="134" frameX="-1" frameY="-2" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0017" x="1165" y="128" width="143" height="136" />
+	<SubTexture name="FireworkPink0018" x="1309" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0019" x="1309" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkPink0020" x="1309" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0000" x="1536" y="0" width="24" height="60" pivotX="666.05" pivotY="599.2" frameX="-59" frameY="-70" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0001" x="1536" y="0" width="24" height="60" frameX="-59" frameY="-70" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0002" x="1560" y="0" width="23" height="68" frameX="-60" frameY="-59" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0003" x="1560" y="0" width="23" height="68" frameX="-60" frameY="-59" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0004" x="1583" y="0" width="13" height="33" frameX="-60" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0005" x="1583" y="0" width="13" height="33" frameX="-60" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0006" x="1597" y="0" width="12" height="22" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0007" x="1597" y="0" width="12" height="22" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0008" x="1610" y="0" width="12" height="13" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0009" x="1610" y="0" width="12" height="13" frameX="-61" frameY="-57" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0010" x="1622" y="0" width="116" height="106" frameX="-12" frameY="-18" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0011" x="1739" y="0" width="130" height="118" frameX="-6" frameY="-11" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0012" x="1739" y="0" width="130" height="118" frameX="-6" frameY="-11" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0013" x="1869" y="0" width="137" height="128" frameX="-3" frameY="-5" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0014" x="1869" y="0" width="137" height="128" frameX="-3" frameY="-5" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0015" x="1536" y="128" width="141" height="134" frameX="-1" frameY="-2" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0016" x="1536" y="128" width="141" height="134" frameX="-1" frameY="-2" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0017" x="1677" y="128" width="143" height="136" />
+	<SubTexture name="FireworkRed0018" x="1821" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0019" x="1821" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+	<SubTexture name="FireworkRed0020" x="1821" y="128" width="0" height="0" frameX="-84" frameY="-75" frameWidth="143" frameHeight="136" />
+</TextureAtlas>
