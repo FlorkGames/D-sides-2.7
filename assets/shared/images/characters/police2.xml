@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="police2.png">
+	
+	
+	<SubTexture name="approach0000" x="3" y="3" width="633" height="798" />
+	<SubTexture name="approach0001" x="3" y="3" width="633" height="798" />
+	<SubTexture name="approach0002" x="3" y="3" width="633" height="798" />
+	<SubTexture name="approach0003" x="639" y="3" width="633" height="798" />
+	<SubTexture name="approach0004" x="639" y="3" width="633" height="798" />
+	<SubTexture name="approach0005" x="639" y="3" width="633" height="798" />
+	<SubTexture name="approach0006" x="1276" y="3" width="633" height="798" />
+	<SubTexture name="approach0007" x="1276" y="3" width="633" height="798" />
+	<SubTexture name="approach0008" x="1276" y="3" width="633" height="798" />
+	<SubTexture name="approach0009" x="1912" y="3" width="633" height="798" />
+	<SubTexture name="approach0010" x="1912" y="3" width="633" height="798" />
+	<SubTexture name="approach0011" x="1912" y="3" width="633" height="798" />
+	<SubTexture name="guard0000" x="2549" y="3" width="1206" height="1200" />
+	<SubTexture name="guard0001" x="2549" y="3" width="1206" height="1200" />
+	<SubTexture name="guard0002" x="2549" y="3" width="1206" height="1200" />
+	<SubTexture name="guard0003" x="3" y="1206" width="1206" height="1200" />
+	<SubTexture name="guard0004" x="3" y="1206" width="1206" height="1200" />
+	<SubTexture name="guard0005" x="3" y="1206" width="1206" height="1200" />
+	<SubTexture name="jump0000" x="1212" y="1206" width="600" height="1131" />
+	<SubTexture name="jump0001" x="1212" y="1206" width="600" height="1131" />
+	<SubTexture name="jump0002" x="1212" y="1206" width="600" height="1131" />
+	<SubTexture name="jump0003" x="1815" y="1206" width="600" height="1131" />
+	<SubTexture name="jump0004" x="1815" y="1206" width="600" height="1131" />
+	<SubTexture name="jump0005" x="1815" y="1206" width="600" height="1131" />
+	<SubTexture name="land0000" x="2418" y="1206" width="1032" height="855" />
+	<SubTexture name="land0001" x="2418" y="1206" width="1032" height="855" />
+	<SubTexture name="land0002" x="2418" y="1206" width="1032" height="855" />
+	<SubTexture name="land0003" x="2418" y="1206" width="1032" height="855" />
+	<SubTexture name="land0004" x="2418" y="1206" width="1032" height="855" />
+	<SubTexture name="land0005" x="2418" y="1206" width="1032" height="855" />
+	<SubTexture name="land0006" x="3" y="2409" width="1032" height="855" />
+	<SubTexture name="land0007" x="3" y="2409" width="1032" height="855" />
+	<SubTexture name="land0008" x="3" y="2409" width="1032" height="855" />
+	<SubTexture name="land0009" x="3" y="2409" width="1032" height="855" />
+	<SubTexture name="land0010" x="3" y="2409" width="1032" height="855" />
+	<SubTexture name="land0011" x="3" y="2409" width="1032" height="855" />
+</TextureAtlas>

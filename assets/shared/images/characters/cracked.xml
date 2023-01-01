@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cracked.png">
+	
+	
+	<SubTexture name="cracked0000" x="2" y="2" width="257" height="376" pivotX="76.3" pivotY="285.8" frameX="-38" frameY="-140" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0001" x="263" y="2" width="246" height="361" frameX="-47" frameY="-156" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0002" x="263" y="2" width="246" height="361" frameX="-47" frameY="-156" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0003" x="512" y="2" width="276" height="429" frameX="-33" frameY="-88" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0004" x="2" y="435" width="353" height="484" frameX="0" frameY="0" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0005" x="359" y="435" width="308" height="311" frameX="-16" frameY="-140" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0006" x="670" y="435" width="0" height="0" frameX="-38" frameY="-143" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0007" x="670" y="435" width="0" height="0" frameX="-38" frameY="-143" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0008" x="670" y="435" width="0" height="0" frameX="-38" frameY="-143" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0009" x="670" y="435" width="0" height="0" frameX="-38" frameY="-143" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0010" x="670" y="435" width="0" height="0" frameX="-38" frameY="-143" frameWidth="353" frameHeight="517" />
+	<SubTexture name="cracked0011" x="670" y="435" width="0" height="0" frameX="-38" frameY="-143" frameWidth="353" frameHeight="517" />
+</TextureAtlas>

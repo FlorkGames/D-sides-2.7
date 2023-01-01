@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="arealfamilyguy.png">
+	
+	
+	<SubTexture name="mitee fucking dies0000" x="2" y="2" width="297" height="152" pivotX="-10.35" pivotY="54.45" />
+</TextureAtlas>
