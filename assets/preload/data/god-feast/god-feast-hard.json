@@ -233,6 +233,12 @@
 						"Xeno Feast"
 					],
 					[
+						16693.5483870968,
+						4,
+						0,
+						"Xeno Feast"
+					],
+					[
 						16129.0322580645,
 						3,
 						0,
@@ -412,8 +418,20 @@
 						"Zeph Feast"
 					],
 					[
+						21500,
+						2,
+						0,
+						"Zeph Feast"
+					],
+					[
 						21612.9032258065,
 						1,
+						0,
+						"Zeph Feast"
+					],
+					[
+						21721.7741935484,
+						3,
 						0,
 						"Zeph Feast"
 					],
@@ -1336,6 +1354,12 @@
 						"Mazin Feast"
 					],
 					[
+						42688.1720430108,
+						1,
+						0,
+						"Zeph Feast"
+					],
+					[
 						42580.6451612903,
 						0,
 						0,
@@ -1354,8 +1378,20 @@
 						"Zeph Feast"
 					],
 					[
+						43010.752688172,
+						1,
+						0,
+						"Zeph Feast"
+					],
+					[
 						43118.2795698925,
 						2,
+						0,
+						"Zeph Feast"
+					],
+					[
+						43225.8064516129,
+						3,
 						0,
 						"Zeph Feast"
 					],
@@ -1402,6 +1438,12 @@
 						"Zeph Feast"
 					],
 					[
+						43978.4946236559,
+						1,
+						0,
+						"Zeph Feast"
+					],
+					[
 						44086.0215053763,
 						0,
 						0,
@@ -1410,6 +1452,12 @@
 					[
 						44193.5483870968,
 						3,
+						0,
+						"Zeph Feast"
+					],
+					[
+						44301.0752688172,
+						1,
 						0,
 						"Zeph Feast"
 					],
@@ -1434,6 +1482,12 @@
 					[
 						44731.1827956989,
 						1,
+						0,
+						"Zeph Feast"
+					],
+					[
+						44838.7096774194,
+						2,
 						0,
 						"Zeph Feast"
 					],
@@ -1726,6 +1780,12 @@
 						"Tenma Feast"
 					],
 					[
+						51935.4838709677,
+						6,
+						0,
+						"Tenma Feast"
+					],
+					[
 						52054.435483871,
 						7,
 						0,
@@ -1734,6 +1794,12 @@
 					[
 						52165.3225806452,
 						5,
+						0,
+						"Tenma Feast"
+					],
+					[
+						52258.064516129,
+						6,
 						0,
 						"Tenma Feast"
 					],
@@ -1752,6 +1818,12 @@
 					[
 						52580.6451612903,
 						5,
+						0,
+						"Tenma Feast"
+					],
+					[
+						52687.5,
+						6,
 						0,
 						"Tenma Feast"
 					],
@@ -1786,7 +1858,19 @@
 						"Zeph Feast"
 					],
 					[
+						53108.8709677419,
+						6,
+						0,
+						"Zeph Feast"
+					],
+					[
 						53225.8064516129,
+						6,
+						0,
+						"Zeph Feast"
+					],
+					[
+						53441.5322580645,
 						6,
 						0,
 						"Zeph Feast"
@@ -2239,6 +2323,12 @@
 						"Zeph Feast"
 					],
 					[
+						64623.6559139785,
+						2,
+						0,
+						"Zeph Feast"
+					],
+					[
 						64731.1827956989,
 						1,
 						0,
@@ -2257,6 +2347,12 @@
 						"Zeph Feast"
 					],
 					[
+						65053.7634408602,
+						1,
+						0,
+						"Zeph Feast"
+					],
+					[
 						65161.2903225806,
 						0,
 						0,
@@ -2269,6 +2365,12 @@
 						"Zeph Feast"
 					],
 					[
+						65376.3440860215,
+						2,
+						0,
+						"Zeph Feast"
+					],
+					[
 						65483.8709677419,
 						0,
 						0,
@@ -2277,6 +2379,12 @@
 					[
 						65591.3978494623,
 						1,
+						0,
+						"Zeph Feast"
+					],
+					[
+						65698.9247311828,
+						2,
 						0,
 						"Zeph Feast"
 					]
@@ -2679,14 +2787,7 @@
 					[
 						74838.7096774194,
 						2,
-						887.096774193548,
-						"Zeph Feast"
-					],
-					[
-						74838.7096774194,
-						0,
-						564.516129032258,
-						"GodZ Feast"
+						887.096774193548
 					]
 				],
 				"typeOfSection": 0,
@@ -2834,12 +2935,6 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						91612.9032258065,
-						5,
-						241.935483870968,
-						"Zeph Feast"
-					],
-					[
 						91935.4838709678,
 						6,
 						241.935483870968,
@@ -2904,6 +2999,12 @@
 						1,
 						0,
 						"Xeno Feast"
+					],
+					[
+						91612.9032258065,
+						5,
+						241.935483870968,
+						"Zeph Feast"
 					]
 				],
 				"gfSection": false,
@@ -3128,8 +3229,20 @@
 						"Zeph Feast"
 					],
 					[
+						97096.7741935485,
+						2,
+						0,
+						"Zeph Feast"
+					],
+					[
 						97204.3010752689,
 						3,
+						0,
+						"Zeph Feast"
+					],
+					[
+						97311.8279569893,
+						1,
 						0,
 						"Zeph Feast"
 					],
@@ -3422,6 +3535,12 @@
 						"Zeph Feast"
 					],
 					[
+						102043.010752688,
+						2,
+						0,
+						"Zeph Feast"
+					],
+					[
 						102150.537634409,
 						0,
 						0,
@@ -3436,6 +3555,12 @@
 					[
 						102365.59139785,
 						2,
+						0,
+						"Zeph Feast"
+					],
+					[
+						102473.11827957,
+						1,
 						0,
 						"Zeph Feast"
 					],
@@ -3598,6 +3723,12 @@
 					[
 						106024.193548387,
 						3,
+						0,
+						"Tenma Feast"
+					],
+					[
+						106129.032258065,
+						2,
 						0,
 						"Tenma Feast"
 					],
@@ -4142,8 +4273,20 @@
 						"Zeph Feast"
 					],
 					[
+						118283.266129032,
+						6,
+						0,
+						"Zeph Feast"
+					],
+					[
 						118387.096774194,
 						5,
+						0,
+						"Zeph Feast"
+					],
+					[
+						118497.983870968,
+						7,
 						0,
 						"Zeph Feast"
 					],
@@ -4318,6 +4461,12 @@
 					[
 						123435.483870968,
 						2,
+						0,
+						"Zeph Feast"
+					],
+					[
+						123548.387096774,
+						1,
 						0,
 						"Zeph Feast"
 					],
@@ -4589,6 +4738,12 @@
 						129354.838709678,
 						1,
 						241.935483870968,
+						"GodZ Feast"
+					],
+					[
+						129677.419354839,
+						3,
+						0,
 						"GodZ Feast"
 					],
 					[
@@ -5185,6 +5340,12 @@
 						"Mazin Feast"
 					],
 					[
+						144623.655913979,
+						2,
+						0,
+						"Mazin Feast"
+					],
+					[
 						144731.182795699,
 						1,
 						0,
@@ -5197,8 +5358,20 @@
 						"Mazin Feast"
 					],
 					[
+						144946.23655914,
+						2,
+						0,
+						"Mazin Feast"
+					],
+					[
 						145053.76344086,
 						0,
+						0,
+						"Mazin Feast"
+					],
+					[
+						145161.290322581,
+						1,
 						0,
 						"Mazin Feast"
 					],
@@ -5223,6 +5396,12 @@
 					[
 						145591.397849463,
 						1,
+						0,
+						"Mazin Feast"
+					],
+					[
+						145698.924731183,
+						2,
 						0,
 						"Mazin Feast"
 					]
@@ -5445,6 +5624,12 @@
 					[
 						151290.322580645,
 						2,
+						0,
+						"Zeph Feast"
+					],
+					[
+						151397.849462366,
+						1,
 						0,
 						"Zeph Feast"
 					],
@@ -5730,6 +5915,12 @@
 						"Tenma Feast"
 					],
 					[
+						160862.903225806,
+						6,
+						0,
+						"Tenma Feast"
+					],
+					[
 						160967.741935484,
 						5,
 						0,
@@ -5738,6 +5929,12 @@
 					[
 						161071.572580645,
 						7,
+						0,
+						"Tenma Feast"
+					],
+					[
+						161187.5,
+						5,
 						0,
 						"Tenma Feast"
 					]
@@ -5906,6 +6103,12 @@
 					[
 						166021.505376344,
 						2,
+						0,
+						"Tenma Feast"
+					],
+					[
+						166129.032258065,
+						1,
 						0,
 						"Tenma Feast"
 					],
@@ -6123,6 +6326,12 @@
 						171935.483870968,
 						2,
 						241.935483870968,
+						"GodZ Feast"
+					],
+					[
+						172258.064516129,
+						3,
+						0,
 						"GodZ Feast"
 					],
 					[
@@ -6426,6 +6635,76 @@
 				"bpm": 186
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 186,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 186
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 186,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 186
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 186,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 186,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 186,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
 				"gfSection": false,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -6443,6 +6722,6 @@
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 186,
-		"speed": 2.5
+		"speed": 2.7
 	}
 }
