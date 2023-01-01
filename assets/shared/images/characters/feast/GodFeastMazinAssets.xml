@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GodFeastMazinAssets.png">
+	
+	
+	<SubTexture name="mazindown0000" x="0" y="0" width="215" height="264" pivotX="-0.9" pivotY="-22.2" frameX="-1" frameY="-5" frameWidth="216" frameHeight="268" />
+	<SubTexture name="mazindown0001" x="0" y="0" width="215" height="264" frameX="-1" frameY="-5" frameWidth="216" frameHeight="268" />
+	<SubTexture name="mazindown0002" x="215" y="0" width="216" height="268" />
+	<SubTexture name="mazindown0003" x="215" y="0" width="216" height="268" />
+	<SubTexture name="mazindown0004" x="215" y="0" width="216" height="268" />
+	<SubTexture name="mazindown0005" x="215" y="0" width="216" height="268" />
+	<SubTexture name="mazindown0006" x="215" y="0" width="216" height="268" />
+	<SubTexture name="mazindown0007" x="215" y="0" width="216" height="268" />
+	<SubTexture name="mazinidle0000" x="431" y="0" width="206" height="273" pivotX="-157.3" pivotY="-379.85" frameX="-6" frameY="-7" frameWidth="212" frameHeight="280" />
+	<SubTexture name="mazinidle0001" x="431" y="0" width="206" height="273" frameX="-6" frameY="-7" frameWidth="212" frameHeight="280" />
+	<SubTexture name="mazinidle0002" x="637" y="0" width="207" height="276" frameX="-5" frameY="-5" frameWidth="212" frameHeight="280" />
+	<SubTexture name="mazinidle0003" x="637" y="0" width="207" height="276" frameX="-5" frameY="-5" frameWidth="212" frameHeight="280" />
+	<SubTexture name="mazinidle0004" x="0" y="276" width="209" height="278" frameX="-3" frameY="-3" frameWidth="212" frameHeight="280" />
+	<SubTexture name="mazinidle0005" x="0" y="276" width="209" height="278" frameX="-3" frameY="-3" frameWidth="212" frameHeight="280" />
+	<SubTexture name="mazinidle0006" x="209" y="276" width="211" height="279" frameX="-1" frameY="-1" frameWidth="212" frameHeight="280" />
+	<SubTexture name="mazinidle0007" x="209" y="276" width="211" height="279" frameX="-1" frameY="-1" frameWidth="212" frameHeight="280" />
+	<SubTexture name="mazinidle0008" x="420" y="276" width="212" height="280" />
+	<SubTexture name="mazinidle0009" x="420" y="276" width="212" height="280" />
+	<SubTexture name="mazinidle0010" x="420" y="276" width="212" height="280" />
+	<SubTexture name="mazinidle0011" x="420" y="276" width="212" height="280" />
+	<SubTexture name="mazinidle0012" x="420" y="276" width="212" height="280" />
+	<SubTexture name="mazinidle0013" x="420" y="276" width="212" height="280" />
+	<SubTexture name="mazinleft0000" x="632" y="276" width="245" height="277" pivotX="1.1" pivotY="-9.1" />
+	<SubTexture name="mazinleft0001" x="632" y="276" width="245" height="277" />
+	<SubTexture name="mazinleft0002" x="0" y="556" width="241" height="277" frameX="-4" frameY="0" frameWidth="245" frameHeight="277" />
+	<SubTexture name="mazinleft0003" x="0" y="556" width="241" height="277" frameX="-4" frameY="0" frameWidth="245" frameHeight="277" />
+	<SubTexture name="mazinleft0004" x="0" y="556" width="241" height="277" frameX="-4" frameY="0" frameWidth="245" frameHeight="277" />
+	<SubTexture name="mazinleft0005" x="0" y="556" width="241" height="277" frameX="-4" frameY="0" frameWidth="245" frameHeight="277" />
+	<SubTexture name="mazinleft0006" x="0" y="556" width="241" height="277" frameX="-4" frameY="0" frameWidth="245" frameHeight="277" />
+	<SubTexture name="mazinright0000" x="241" y="556" width="275" height="312" pivotX="-48.9" pivotY="-34.9" frameX="-4" frameY="-1" frameWidth="279" frameHeight="313" />
+	<SubTexture name="mazinright0001" x="241" y="556" width="275" height="312" frameX="-4" frameY="-1" frameWidth="279" frameHeight="313" />
+	<SubTexture name="mazinright0002" x="517" y="556" width="279" height="313" />
+	<SubTexture name="mazinright0003" x="517" y="556" width="279" height="313" />
+	<SubTexture name="mazinright0004" x="517" y="556" width="279" height="313" />
+	<SubTexture name="mazinright0005" x="517" y="556" width="279" height="313" />
+	<SubTexture name="mazinright0006" x="517" y="556" width="279" height="313" />
+	<SubTexture name="mazinright0007" x="517" y="556" width="279" height="313" />
+	<SubTexture name="mazinup0000" x="796" y="556" width="220" height="290" pivotX="-18.3" pivotY="0.7" frameX="0" frameY="0" frameWidth="222" frameHeight="290" />
+	<SubTexture name="mazinup0001" x="796" y="556" width="220" height="290" frameX="0" frameY="0" frameWidth="222" frameHeight="290" />
+	<SubTexture name="mazinup0002" x="0" y="869" width="220" height="285" frameX="-2" frameY="-5" frameWidth="222" frameHeight="290" />
+	<SubTexture name="mazinup0003" x="0" y="869" width="220" height="285" frameX="-2" frameY="-5" frameWidth="222" frameHeight="290" />
+	<SubTexture name="mazinup0004" x="0" y="869" width="220" height="285" frameX="-2" frameY="-5" frameWidth="222" frameHeight="290" />
+	<SubTexture name="mazinup0005" x="0" y="869" width="220" height="285" frameX="-2" frameY="-5" frameWidth="222" frameHeight="290" />
+	<SubTexture name="mazinup0006" x="0" y="869" width="220" height="285" frameX="-2" frameY="-5" frameWidth="222" frameHeight="290" />
+</TextureAtlas>

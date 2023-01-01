@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GodFeastLordXAssets.png">
+	
+	
+	<SubTexture name="lordxdown0000" x="0" y="0" width="302" height="272" pivotX="1.7" pivotY="0" frameX="0" frameY="-6" frameWidth="302" frameHeight="278" />
+	<SubTexture name="lordxdown0001" x="302" y="0" width="302" height="272" frameX="0" frameY="-6" frameWidth="302" frameHeight="278" />
+	<SubTexture name="lordxdown0002" x="604" y="0" width="299" height="278" frameX="-1" frameY="0" frameWidth="302" frameHeight="278" />
+	<SubTexture name="lordxdown0003" x="903" y="0" width="299" height="278" frameX="-1" frameY="0" frameWidth="302" frameHeight="278" />
+	<SubTexture name="lordxdown0004" x="1203" y="0" width="299" height="278" frameX="-1" frameY="0" frameWidth="302" frameHeight="278" />
+	<SubTexture name="lordxdown0005" x="604" y="0" width="299" height="278" frameX="-1" frameY="0" frameWidth="302" frameHeight="278" />
+	<SubTexture name="lordxidle0000" x="1502" y="0" width="303" height="287" pivotX="-54.1" pivotY="-62.9" frameX="-6" frameY="-5" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0001" x="0" y="287" width="303" height="288" frameX="-6" frameY="-4" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0002" x="303" y="287" width="304" height="291" frameX="-4" frameY="-1" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0003" x="607" y="287" width="304" height="292" frameX="-5" frameY="0" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0004" x="911" y="287" width="301" height="291" frameX="-4" frameY="-2" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0005" x="1212" y="287" width="302" height="291" frameX="-3" frameY="-2" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0006" x="1514" y="287" width="301" height="288" frameX="0" frameY="-5" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0007" x="0" y="579" width="301" height="288" frameX="0" frameY="-5" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0008" x="301" y="579" width="301" height="288" frameX="-1" frameY="-4" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0009" x="602" y="579" width="301" height="289" frameX="-1" frameY="-3" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0010" x="903" y="579" width="301" height="289" frameX="-1" frameY="-4" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0011" x="301" y="579" width="301" height="288" frameX="-1" frameY="-4" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0012" x="602" y="579" width="301" height="289" frameX="-1" frameY="-3" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxidle0013" x="903" y="579" width="301" height="289" frameX="-1" frameY="-4" frameWidth="309" frameHeight="292" />
+	<SubTexture name="lordxleft0000" x="1205" y="579" width="302" height="312" pivotX="-2.75" pivotY="2.6" />
+	<SubTexture name="lordxleft0001" x="1507" y="579" width="302" height="312" frameX="0" frameY="0" frameWidth="302" frameHeight="312" />
+	<SubTexture name="lordxleft0002" x="0" y="892" width="301" height="310" frameX="-1" frameY="-3" frameWidth="302" frameHeight="312" />
+	<SubTexture name="lordxleft0003" x="301" y="892" width="301" height="310" frameX="-1" frameY="-3" frameWidth="302" frameHeight="312" />
+	<SubTexture name="lordxleft0004" x="603" y="892" width="301" height="309" frameX="-1" frameY="-3" frameWidth="302" frameHeight="312" />
+	<SubTexture name="lordxright0000" x="904" y="892" width="377" height="294" pivotX="-3.85" pivotY="-6.05" frameX="-11" frameY="-1" frameWidth="390" frameHeight="295" />
+	<SubTexture name="lordxright0001" x="1281" y="892" width="377" height="294" frameX="-11" frameY="-1" frameWidth="390" frameHeight="295" />
+	<SubTexture name="lordxright0002" x="0" y="1202" width="390" height="294" frameX="0" frameY="0" frameWidth="390" frameHeight="295" />
+	<SubTexture name="lordxright0003" x="390" y="1202" width="390" height="294" frameX="0" frameY="0" frameWidth="390" frameHeight="295" />
+	<SubTexture name="lordxright0004" x="781" y="1202" width="390" height="294" frameX="0" frameY="0" frameWidth="390" frameHeight="295" />
+	<SubTexture name="lordxright0005" x="0" y="1202" width="390" height="294" frameX="0" frameY="0" frameWidth="390" frameHeight="295" />
+	<SubTexture name="lordxright0006" x="390" y="1202" width="390" height="294" frameX="0" frameY="0" frameWidth="390" frameHeight="295" />
+	<SubTexture name="lordxup0000" x="1171" y="1202" width="292" height="319" pivotX="5.9" pivotY="13.15" frameX="0" frameY="0" frameWidth="298" frameHeight="319" />
+	<SubTexture name="lordxup0001" x="1463" y="1202" width="292" height="319" frameX="0" frameY="0" frameWidth="298" frameHeight="319" />
+	<SubTexture name="lordxup0002" x="0" y="1521" width="296" height="311" frameX="-3" frameY="-7" frameWidth="298" frameHeight="319" />
+	<SubTexture name="lordxup0003" x="296" y="1521" width="296" height="311" frameX="-3" frameY="-7" frameWidth="298" frameHeight="319" />
+	<SubTexture name="lordxup0004" x="592" y="1521" width="296" height="311" frameX="-3" frameY="-7" frameWidth="298" frameHeight="319" />
+	<SubTexture name="lordxup0005" x="0" y="1521" width="296" height="311" frameX="-3" frameY="-7" frameWidth="298" frameHeight="319" />
+</TextureAtlas>

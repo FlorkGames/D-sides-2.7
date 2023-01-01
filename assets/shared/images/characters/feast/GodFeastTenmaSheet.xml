@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GodFeastTenmaSheet.png">
+	
+	
+	<SubTexture name="tenmadown0000" x="0" y="0" width="196" height="202" pivotX="2.1" pivotY="-2.6" frameX="0" frameY="-4" frameWidth="196" frameHeight="206" />
+	<SubTexture name="tenmadown0001" x="0" y="0" width="196" height="202" frameX="0" frameY="-4" frameWidth="196" frameHeight="206" />
+	<SubTexture name="tenmadown0002" x="196" y="0" width="190" height="206" frameX="-1" frameY="0" frameWidth="196" frameHeight="206" />
+	<SubTexture name="tenmadown0003" x="196" y="0" width="190" height="206" frameX="-1" frameY="0" frameWidth="196" frameHeight="206" />
+	<SubTexture name="tenmadown0004" x="196" y="0" width="190" height="206" frameX="-1" frameY="0" frameWidth="196" frameHeight="206" />
+	<SubTexture name="tenmadown0005" x="196" y="0" width="190" height="206" frameX="-1" frameY="0" frameWidth="196" frameHeight="206" />
+	<SubTexture name="tenmadown0006" x="196" y="0" width="190" height="206" frameX="-1" frameY="0" frameWidth="196" frameHeight="206" />
+	<SubTexture name="tenmadown0007" x="196" y="0" width="190" height="206" frameX="-1" frameY="0" frameWidth="196" frameHeight="206" />
+	<SubTexture name="tenmadownmiss0000" x="386" y="0" width="197" height="202" pivotX="-4.85" pivotY="-13.4" frameX="-8" frameY="0" frameWidth="210" frameHeight="202" />
+	<SubTexture name="tenmadownmiss0001" x="583" y="0" width="201" height="175" frameX="-5" frameY="-1" frameWidth="210" frameHeight="202" />
+	<SubTexture name="tenmadownmiss0002" x="785" y="0" width="210" height="173" frameX="0" frameY="-2" frameWidth="210" frameHeight="202" />
+	<SubTexture name="tenmadownmiss0003" x="785" y="0" width="210" height="173" frameX="0" frameY="-2" frameWidth="210" frameHeight="202" />
+	<SubTexture name="tenmadownmiss0004" x="785" y="0" width="210" height="173" frameX="0" frameY="-2" frameWidth="210" frameHeight="202" />
+	<SubTexture name="tenmadownmiss0005" x="785" y="0" width="210" height="173" frameX="0" frameY="-2" frameWidth="210" frameHeight="202" />
+	<SubTexture name="tenmadownmiss0006" x="785" y="0" width="210" height="173" frameX="0" frameY="-2" frameWidth="210" frameHeight="202" />
+	<SubTexture name="tenmadownmiss0007" x="785" y="0" width="210" height="173" frameX="0" frameY="-2" frameWidth="210" frameHeight="202" />
+	<SubTexture name="tenmadownmiss0008" x="785" y="0" width="210" height="173" frameX="0" frameY="-2" frameWidth="210" frameHeight="202" />
+	<SubTexture name="tenmaidle0000" x="0" y="206" width="190" height="212" pivotX="23.9" pivotY="0" frameX="0" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0001" x="0" y="206" width="190" height="212" frameX="0" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0002" x="190" y="206" width="188" height="212" frameX="-5" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0003" x="190" y="206" width="188" height="212" frameX="-5" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0004" x="378" y="206" width="186" height="212" frameX="-7" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0005" x="378" y="206" width="186" height="212" frameX="-7" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0006" x="565" y="206" width="186" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0007" x="565" y="206" width="186" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0008" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0009" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0010" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0011" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0012" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0013" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0014" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0015" x="0" y="418" width="192" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0016" x="0" y="418" width="192" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0017" x="192" y="418" width="190" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0018" x="192" y="418" width="190" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0019" x="382" y="418" width="188" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0020" x="382" y="418" width="188" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0021" x="570" y="418" width="188" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0022" x="570" y="418" width="188" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0023" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0024" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0025" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0026" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0027" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0028" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaidle0029" x="751" y="206" width="187" height="212" frameX="-8" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaleft0000" x="758" y="418" width="216" height="212" pivotX="-7.5" pivotY="0" />
+	<SubTexture name="tenmaleft0001" x="758" y="418" width="216" height="212" />
+	<SubTexture name="tenmaleft0002" x="0" y="630" width="213" height="212" frameX="-4" frameY="0" frameWidth="216" frameHeight="212" />
+	<SubTexture name="tenmaleft0003" x="0" y="630" width="213" height="212" frameX="-4" frameY="0" frameWidth="216" frameHeight="212" />
+	<SubTexture name="tenmaleft0004" x="0" y="630" width="213" height="212" frameX="-4" frameY="0" frameWidth="216" frameHeight="212" />
+	<SubTexture name="tenmaleft0005" x="0" y="630" width="213" height="212" frameX="-4" frameY="0" frameWidth="216" frameHeight="212" />
+	<SubTexture name="tenmamissleft0000" x="213" y="630" width="217" height="212" pivotX="-14.9" pivotY="-0.3" />
+	<SubTexture name="tenmamissleft0001" x="430" y="630" width="204" height="177" frameX="-6" frameY="-1" frameWidth="217" frameHeight="212" />
+	<SubTexture name="tenmamissleft0002" x="634" y="630" width="204" height="177" frameX="-4" frameY="-1" frameWidth="217" frameHeight="212" />
+	<SubTexture name="tenmamissleft0003" x="634" y="630" width="204" height="177" frameX="-4" frameY="-1" frameWidth="217" frameHeight="212" />
+	<SubTexture name="tenmamissleft0004" x="634" y="630" width="204" height="177" frameX="-4" frameY="-1" frameWidth="217" frameHeight="212" />
+	<SubTexture name="tenmamissleft0005" x="634" y="630" width="204" height="177" frameX="-4" frameY="-1" frameWidth="217" frameHeight="212" />
+	<SubTexture name="tenmamissleft0006" x="634" y="630" width="204" height="177" frameX="-4" frameY="-1" frameWidth="217" frameHeight="212" />
+	<SubTexture name="tenmamissleft0007" x="634" y="630" width="204" height="177" frameX="-4" frameY="-1" frameWidth="217" frameHeight="212" />
+	<SubTexture name="tenmamissright0000" x="0" y="842" width="200" height="212" pivotX="38.7" pivotY="2.15" frameX="0" frameY="-1" frameWidth="200" frameHeight="213" />
+	<SubTexture name="tenmamissright0001" x="200" y="842" width="178" height="174" frameX="-18" frameY="0" frameWidth="200" frameHeight="213" />
+	<SubTexture name="tenmamissright0002" x="378" y="842" width="177" height="175" frameX="-24" frameY="0" frameWidth="200" frameHeight="213" />
+	<SubTexture name="tenmamissright0003" x="378" y="842" width="177" height="175" frameX="-24" frameY="0" frameWidth="200" frameHeight="213" />
+	<SubTexture name="tenmamissright0004" x="378" y="842" width="177" height="175" frameX="-24" frameY="0" frameWidth="200" frameHeight="213" />
+	<SubTexture name="tenmamissright0005" x="378" y="842" width="177" height="175" frameX="-24" frameY="0" frameWidth="200" frameHeight="213" />
+	<SubTexture name="tenmamissright0006" x="378" y="842" width="177" height="175" frameX="-24" frameY="0" frameWidth="200" frameHeight="213" />
+	<SubTexture name="tenmamissright0007" x="378" y="842" width="177" height="175" frameX="-24" frameY="0" frameWidth="200" frameHeight="213" />
+	<SubTexture name="tenmamissup0000" x="555" y="842" width="181" height="220" pivotX="-1.95" pivotY="10.7" frameX="0" frameY="-5" frameWidth="183" frameHeight="225" />
+	<SubTexture name="tenmamissup0001" x="737" y="842" width="170" height="179" frameX="-13" frameY="-6" frameWidth="183" frameHeight="225" />
+	<SubTexture name="tenmamissup0002" x="0" y="1062" width="166" height="185" frameX="-15" frameY="0" frameWidth="183" frameHeight="225" />
+	<SubTexture name="tenmamissup0003" x="0" y="1062" width="166" height="185" frameX="-15" frameY="0" frameWidth="183" frameHeight="225" />
+	<SubTexture name="tenmamissup0004" x="0" y="1062" width="166" height="185" frameX="-15" frameY="0" frameWidth="183" frameHeight="225" />
+	<SubTexture name="tenmamissup0005" x="0" y="1062" width="166" height="185" frameX="-15" frameY="0" frameWidth="183" frameHeight="225" />
+	<SubTexture name="tenmamissup0006" x="0" y="1062" width="166" height="185" frameX="-15" frameY="0" frameWidth="183" frameHeight="225" />
+	<SubTexture name="tenmamissup0007" x="0" y="1062" width="166" height="185" frameX="-15" frameY="0" frameWidth="183" frameHeight="225" />
+	<SubTexture name="tenmaright0000" x="166" y="1062" width="199" height="212" pivotX="31.85" pivotY="-0.05" />
+	<SubTexture name="tenmaright0001" x="166" y="1062" width="199" height="212" />
+	<SubTexture name="tenmaright0002" x="366" y="1062" width="195" height="212" frameX="0" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaright0003" x="366" y="1062" width="195" height="212" frameX="0" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaright0004" x="366" y="1062" width="195" height="212" frameX="0" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaright0005" x="366" y="1062" width="195" height="212" frameX="0" frameY="0" frameWidth="199" frameHeight="212" />
+	<SubTexture name="tenmaup0000" x="561" y="1062" width="181" height="219" pivotX="-10" pivotY="4.7" frameX="0" frameY="0" frameWidth="184" frameHeight="219" />
+	<SubTexture name="tenmaup0001" x="561" y="1062" width="181" height="219" frameX="0" frameY="0" frameWidth="184" frameHeight="219" />
+	<SubTexture name="tenmaup0002" x="742" y="1062" width="184" height="217" frameX="0" frameY="-2" frameWidth="184" frameHeight="219" />
+	<SubTexture name="tenmaup0003" x="742" y="1062" width="184" height="217" frameX="0" frameY="-2" frameWidth="184" frameHeight="219" />
+	<SubTexture name="tenmaup0004" x="742" y="1062" width="184" height="217" frameX="0" frameY="-2" frameWidth="184" frameHeight="219" />
+	<SubTexture name="tenmaup0005" x="742" y="1062" width="184" height="217" frameX="0" frameY="-2" frameWidth="184" frameHeight="219" />
+	<SubTexture name="tenmaup0006" x="742" y="1062" width="184" height="217" frameX="0" frameY="-2" frameWidth="184" frameHeight="219" />
+	<SubTexture name="tenmaup0007" x="742" y="1062" width="184" height="217" frameX="0" frameY="-2" frameWidth="184" frameHeight="219" />
+	<SubTexture name="tenmaup0008" x="742" y="1062" width="184" height="217" frameX="0" frameY="-2" frameWidth="184" frameHeight="219" />
+</TextureAtlas>
