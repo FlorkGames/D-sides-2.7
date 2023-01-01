@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crowd1.png">
+	
+	
+	<SubTexture name="Crowd1 instance 10000" x="0" y="0" width="747" height="276" pivotX="62.75" pivotY="-149.75" frameX="-8" frameY="-3" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10001" x="0" y="0" width="747" height="276" frameX="-8" frameY="-3" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10002" x="0" y="276" width="744" height="275" frameX="-9" frameY="-3" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10003" x="0" y="276" width="744" height="275" frameX="-9" frameY="-3" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10004" x="0" y="551" width="746" height="277" frameX="-5" frameY="-1" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10005" x="0" y="551" width="746" height="277" frameX="-5" frameY="-1" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10006" x="0" y="829" width="749" height="278" frameX="-1" frameY="0" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10007" x="0" y="829" width="749" height="278" frameX="-1" frameY="0" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10008" x="0" y="1107" width="750" height="278" frameX="0" frameY="0" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10009" x="0" y="1107" width="750" height="278" frameX="0" frameY="0" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10010" x="0" y="1107" width="750" height="278" frameX="0" frameY="0" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10011" x="0" y="1107" width="750" height="278" frameX="0" frameY="0" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10012" x="0" y="1107" width="750" height="278" frameX="0" frameY="0" frameWidth="754" frameHeight="278" />
+	<SubTexture name="Crowd1 instance 10013" x="0" y="1107" width="750" height="278" frameX="0" frameY="0" frameWidth="754" frameHeight="278" />
+</TextureAtlas>
