@@ -1,6 +1,7 @@
 {
-	"directory": "week2",
-	"defaultZoom": 1.05,
+	"directory": "",
+	"defaultZoom": 0.77,
+	"stageShit": "dark",
 
 	"boyfriend": [770, 100],
 	"girlfriend": [400, 130],
