@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="evilupperBop.png">
+	
+	
+	<SubTexture name="Upper Crowd BobEvil0000" x="0" y="0" width="878" height="184" frameX="0" frameY="-4" frameWidth="878" frameHeight="188" />
+	<SubTexture name="Upper Crowd BobEvil0001" x="0" y="0" width="878" height="184" frameX="0" frameY="-4" frameWidth="878" frameHeight="188" />
+	<SubTexture name="Upper Crowd BobEvil0002" x="0" y="184" width="877" height="185" frameX="-1" frameY="-3" frameWidth="878" frameHeight="188" />
+	<SubTexture name="Upper Crowd BobEvil0003" x="0" y="184" width="877" height="185" frameX="-1" frameY="-3" frameWidth="878" frameHeight="188" />
+	<SubTexture name="Upper Crowd BobEvil0004" x="0" y="370" width="873" height="188" frameX="-4" frameY="0" frameWidth="878" frameHeight="188" />
+	<SubTexture name="Upper Crowd BobEvil0005" x="0" y="370" width="873" height="188" frameX="-4" frameY="0" frameWidth="878" frameHeight="188" />
+	<SubTexture name="Upper Crowd BobEvil0006" x="0" y="558" width="874" height="188" frameX="-3" frameY="-1" frameWidth="878" frameHeight="188" />
+	<SubTexture name="Upper Crowd BobEvil0007" x="0" y="558" width="874" height="188" frameX="-3" frameY="-1" frameWidth="878" frameHeight="188" />
+	<SubTexture name="Upper Crowd BobEvil0008" x="0" y="558" width="874" height="188" frameX="-3" frameY="-1" frameWidth="878" frameHeight="188" />
+	<SubTexture name="Upper Crowd BobEvil0009" x="0" y="558" width="874" height="188" frameX="-3" frameY="-1" frameWidth="878" frameHeight="188" />
+</TextureAtlas>

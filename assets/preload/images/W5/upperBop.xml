@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="upperBop.png">
+	
+	
+	<SubTexture name="Upper Crowd Bop0000" x="0" y="0" width="878" height="188" frameX="0" frameY="-2" frameWidth="878" frameHeight="190" />
+	<SubTexture name="Upper Crowd Bop0001" x="0" y="0" width="878" height="188" frameX="0" frameY="-2" frameWidth="878" frameHeight="190" />
+	<SubTexture name="Upper Crowd Bop0002" x="0" y="188" width="877" height="189" frameX="-1" frameY="-2" frameWidth="878" frameHeight="190" />
+	<SubTexture name="Upper Crowd Bop0003" x="0" y="188" width="877" height="189" frameX="-1" frameY="-2" frameWidth="878" frameHeight="190" />
+	<SubTexture name="Upper Crowd Bop0004" x="0" y="377" width="875" height="190" frameX="-1" frameY="-1" frameWidth="878" frameHeight="190" />
+	<SubTexture name="Upper Crowd Bop0005" x="0" y="377" width="875" height="190" frameX="-1" frameY="-1" frameWidth="878" frameHeight="190" />
+	<SubTexture name="Upper Crowd Bop0006" x="0" y="567" width="874" height="190" frameX="-2" frameY="0" frameWidth="878" frameHeight="190" />
+	<SubTexture name="Upper Crowd Bop0007" x="0" y="567" width="874" height="190" frameX="-2" frameY="0" frameWidth="878" frameHeight="190" />
+	<SubTexture name="Upper Crowd Bop0008" x="0" y="567" width="874" height="190" frameX="-2" frameY="0" frameWidth="878" frameHeight="190" />
+	<SubTexture name="Upper Crowd Bop0009" x="0" y="567" width="874" height="190" frameX="-2" frameY="0" frameWidth="878" frameHeight="190" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="santa.png">
+	
+	
+	<SubTexture name="santa idle in fear0000" x="0" y="0" width="337" height="398" pivotX="19.25" pivotY="38.9" />
+	<SubTexture name="santa idle in fear0001" x="337" y="0" width="337" height="398" />
+	<SubTexture name="santa idle in fear0002" x="675" y="0" width="337" height="398" />
+	<SubTexture name="santa idle in fear0003" x="0" y="398" width="337" height="398" />
+	<SubTexture name="santa idle in fear0004" x="337" y="398" width="337" height="398" />
+	<SubTexture name="santa idle in fear0005" x="675" y="398" width="337" height="398" />
+	<SubTexture name="santa idle in fear0006" x="0" y="796" width="337" height="398" />
+	<SubTexture name="santa idle in fear0007" x="337" y="796" width="337" height="398" />
+	<SubTexture name="santa idle in fear0008" x="675" y="796" width="337" height="398" />
+	<SubTexture name="santa idle in fear0009" x="0" y="1194" width="337" height="398" />
+	<SubTexture name="santa idle in fear0010" x="337" y="1194" width="337" height="398" />
+	<SubTexture name="santa idle in fear0011" x="675" y="1194" width="337" height="398" />
+	<SubTexture name="santa idle in fear0012" x="0" y="1194" width="337" height="398" />
+	<SubTexture name="santa idle in fear0013" x="337" y="1194" width="337" height="398" />
+</TextureAtlas>
